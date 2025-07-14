@@ -525,6 +525,7 @@
 }
 .home-page {
     width: 100%;
+    max-width: 1920px;
     position: relative;
     background-color: #fff;
     display: flex;
@@ -535,5 +536,6 @@
     font-size: 32px;
     color: #1e1e1e;
     font-family: Poppins;
+    margin: auto;
 }
 
