@@ -6,6 +6,11 @@
 .gthreads {
     position: relative;
 }
+
+.body-link {
+    text-decoration: none;
+}
+
 .home {
     position: relative;
     font-weight: 500;
@@ -538,4 +543,63 @@
     font-family: Poppins;
     margin: auto;
 }
+
+.uk-office {
+    width: 256px;
+    position: relative;
+    display: inline-block;
+}
+.dorchester-road-paddingtonshi {
+    width: 196px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(30, 30, 30, 0.5);
+    display: inline-block;
+}
+.div {
+    width: 196px;
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    color: #2243a2;
+    display: inline-block;
+}
+.label-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.area-phone {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.phone-block-nested {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0px;
+}
+.phone-block {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+    padding-bottom: 200px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 32px;
+    color: #1e1e1e;
+    font-family: Poppins;
+}
+
 
